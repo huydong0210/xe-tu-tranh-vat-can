@@ -1,0 +1,9 @@
+int ena = 5;
+int in1 = 6;
+int in2 = 7;
+int in3 = 8;
+int in4 = 9;
+int enb = 3;
+int servoPin=11;    
+int trig =4;
+int echo=10;

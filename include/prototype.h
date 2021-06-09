@@ -1,0 +1,17 @@
+void tien1(int speed);
+void lui1(int speed);
+void tien2(int speed);
+void lui2(int speed);
+void dung1();
+void dung2();
+void quayDauTrai();
+void quayDauPhai();
+void rePhai1Chut();
+void reTrai1Chut();
+void diThang();
+int timDuong(int a[]);
+void luiPhai();
+void luiTrai();
+void lui();
+void luiNhe();
+int ranDom();
